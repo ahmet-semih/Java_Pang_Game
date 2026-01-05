@@ -52,4 +52,5 @@ The game includes a main menu with **three sections**:
    ```bash
    git clone git@github.com:ahmet-semih/Java_Pang_Game.git
 2.Open the project in Eclipse or IntelliJ
+
 3.Run the Home class to start the game   
